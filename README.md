@@ -1,3 +1,4 @@
 # MyFirstRepo
-## Header 1
-My first Repo
+My first repository
+---
+© Dr. A Demos 2023 and beyond!
